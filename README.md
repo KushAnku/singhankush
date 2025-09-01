@@ -5,11 +5,6 @@ This site is designed to give recruiters and collaborators a one-stop place to v
 
 ---
 
-## 🚀 Live Website
-👉 [Visit my portfolio here](https://kushanku.github.io/singhankush/)  
-
----
-
 ## 📄 Features
 - **Home / About** – Quick intro and professional summary.  
 - **Experience** – Academic & freelance projects in software engineering, ML, DevOps.  
